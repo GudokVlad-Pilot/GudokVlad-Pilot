@@ -63,7 +63,7 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
 
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://ru.wikipedia.org/wiki/Android_Studio#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Android_Studio_Logo_(2023).svg" alt="Android Studio" width="40px" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1024px-Android_Studio_Logo_%282023%29.svg.png" alt="Android Studio" width="40px" height="40px" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40px" height="40px" />
