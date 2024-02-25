@@ -1,8 +1,8 @@
-### Hi, I am Vlad 👋
+# Hi, my name is Vlad 👋
 
 I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development
 
-## Welcome To My Profile 😄
+## About me:
 
 - Throughout my academic journey, I have acquired invaluable experience in full-stack development.
 - I have collaborated with a variety of companies, refining my proficiency in crafting innovative and user-friendly applications.
