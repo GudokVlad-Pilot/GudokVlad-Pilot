@@ -59,10 +59,19 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
  </p>
 
 
-## Technologies and Tools:
-
-
 ## Development Tools:
+
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="Android Studio" width="40px" height="40px" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40px" height="40px" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio" alt="Visual Studio" width="40px" height="40px" />
+  </a>
+ </p>
 
 
 <!--
