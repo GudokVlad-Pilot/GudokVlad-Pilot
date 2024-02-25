@@ -1,6 +1,6 @@
 # Hi, my name is Vlad 👋
 
-I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development
+I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development.
 
 ## About me:
 
