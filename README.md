@@ -1,4 +1,4 @@
-# Hi, my name is Vlad 👋
+![image](https://github.com/GudokVlad-Pilot/GudokVlad-Pilot/assets/108792983/d3f3c1e2-4b46-4d15-9e22-761687e5ae16)# Hi, my name is Vlad 👋
 
 I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development.
 
@@ -14,6 +14,21 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
 ## Languages:
 
 <p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" alt="Kotlin" width="40px" height="40px" />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" alt="Java" width="40px" height="40px" />
+  </a>
+  <a href="https://www.xml.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/file-xml-color-red-icon.png" alt="XML" width="40px" height="40px" />
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" alt="React" width="40px" height="40px" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-native-app-icon.png" alt="React Native" width="40px" height="40px" />
+  </a>
   <a href="https://html.com/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="40px" height="40px" />
   </a>
@@ -37,6 +52,9 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" alt="Python" width="40px" height="40px" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/database-icon.png" alt="SQL" width="40px" height="40px" />
   </a>
  </p>
 
