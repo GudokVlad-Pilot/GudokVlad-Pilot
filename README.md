@@ -1,4 +1,4 @@
-# Hi, my name is Vlad 👋
+![image](https://github.com/GudokVlad-Pilot/GudokVlad-Pilot/assets/108792983/39ee960b-0e90-4cfa-a94c-fb29e317fd5e)# Hi, my name is Vlad 👋
 
 I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development.
 
@@ -12,6 +12,21 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
 - My genuine interest and passion for programming further drive my enthusiasm to undertake new challenges and contribute to the continually advancing realm of software development.
 
 ## Languages:
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40px" height="40px" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png" alt="C" width="40px" height="40px" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-plus-plus-programming-language-icon.png" alt="C++" width="40px" height="40px" />
+  </a>
+ </p>
 
 
 ## Technologies and Tools:
