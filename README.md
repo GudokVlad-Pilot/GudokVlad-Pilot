@@ -58,6 +58,13 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
   </a>
  </p>
 
+<!-- ## Technologies:
+
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Android_Studio_Logo_%282023%29.svg/1024px-Android_Studio_Logo_%282023%29.svg.png" alt="Android Studio" width="40px" height="40px" />
+  </a>
+ </p> -->
 
 ## Development Tools:
 
@@ -70,6 +77,9 @@ I am ambitious IT specialist who has recently graduated, specializing in Web and
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" alt="Visual Studio" width="40px" height="40px" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" alt="Firebase" width="40px" height="40px" />
   </a>
  </p>
 
