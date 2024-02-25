@@ -1,4 +1,4 @@
-![image](https://github.com/GudokVlad-Pilot/GudokVlad-Pilot/assets/108792983/d3f3c1e2-4b46-4d15-9e22-761687e5ae16)# Hi, my name is Vlad 👋
+# Hi, my name is Vlad 👋
 
 I am ambitious IT specialist who has recently graduated, specializing in Web and Mobile application development.
 
