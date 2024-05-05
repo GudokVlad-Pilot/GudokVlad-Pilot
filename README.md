@@ -82,6 +82,13 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
   </a>
  </p>
 
+ ## Contact me:
+
+<a href="https://www.linkedin.com/in/vladislavpogudin/" target="_blank" rel="noreferrer">
+  LinkedIn
+</a>
+
+
 
 <!--
 **GudokVlad-Pilot/GudokVlad-Pilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
