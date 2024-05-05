@@ -84,10 +84,15 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
 
  ## Contact me:
 
-<a href="https://www.linkedin.com/in/vladislavpogudin/" target="_blank" rel="noreferrer">
-  LinkedIn
+- LinkedIn: <a href="https://www.linkedin.com/in/vladislavpogudin/" target="_blank" rel="noreferrer">
+  Vladislav Pogudin
 </a>
-
+- WhatsApp: <a href="[https://www.linkedin.com/in/vladislavpogudin/](https://api.whatsapp.com/send/?phone=358465508147&text&type=phone_number&app_absent=0)" target="_blank" rel="noreferrer">
+  +358465508147
+</a>
+- Email: <a href="mailto:vladislavpogudin9b@gmail.com" target="_blank" rel="noreferrer">
+  pogudinvladislav9b@gmail.com
+</a>
 
 
 <!--
