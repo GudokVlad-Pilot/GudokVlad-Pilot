@@ -88,7 +88,7 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
     Vladislav Pogudin
   </a>
   
-- WhatsApp: <a href="[https://www.linkedin.com/in/vladislavpogudin/](https://api.whatsapp.com/send/?phone=358465508147&text&type=phone_number&app_absent=0)" target="_blank" rel="noreferrer">
+- WhatsApp: <a href="https://api.whatsapp.com/send/?phone=358465508147&text&type=phone_number&app_absent=0" target="_blank" rel="noreferrer">
     +358465508147
   </a>
   
