@@ -7,7 +7,7 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
 - 3+ years experience in full-stack development.
 - Understanding and usage of multiple programming languages.
 - I was working in companies with CI/CD pipelines projects using Agile method.
-- Presently, I am actively involved in ongoing hobby projects, underscoring my dedication to continuous learning and practical application during my free time.
+- During my free time I am working on my hobby projects to support my skills and follow current IT trends.
 - My genuine interest and passion for programming further drive my enthusiasm to undertake new challenges and contribute to the continually advancing realm of software development.
 
 ## Languages:
