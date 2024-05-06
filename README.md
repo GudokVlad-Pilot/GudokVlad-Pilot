@@ -96,7 +96,7 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
     pogudinvladislav9b@gmail.com
   </a>
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="10px" height="10px" />: <a href="https://www.linkedin.com/in/vladislavpogudin/" target="_blank" rel="noreferrer">
+- <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.svg" alt="Linkedin" width="15px" height="15px" /> <a href="https://www.linkedin.com/in/vladislavpogudin/" target="_blank" rel="noreferrer">
     Vladislav Pogudin
   </a>
 
