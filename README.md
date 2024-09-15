@@ -92,8 +92,8 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
     +358465508147
   </a>
   
-- Email: <a href="mailto:vladislavpogudin9b@gmail.com" target="_blank" rel="noreferrer">
-    pogudinvladislav9b@gmail.com
+- Email: <a href="mailto:vladislavpogudin.dev@gmail.com" target="_blank" rel="noreferrer">
+    vladislavpogudin.dev@gmail.com
   </a>
 
 <!--
