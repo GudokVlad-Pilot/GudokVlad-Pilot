@@ -4,7 +4,7 @@ I am ambitious IT specialist, specializing in Web and Mobile application develop
 
 ## About me:
 
-- 3+ years experience in full-stack development.
+- 4+ years experience in full-stack development.
 - Understanding and usage of multiple programming languages.
 - I was working in companies with CI/CD pipelines projects using Agile method.
 - During my free time I am working on my hobby projects to support my skills and follow current IT trends.
